@@ -1,0 +1,46 @@
+.container {
+    width: auto;
+    height: 18rem;
+    justify-content: center;
+    align-items: center;
+    padding: 9rem;
+}
+.content{
+    width: 25rem;
+    height: 20rem;
+    margin: auto;
+    background-color: #f34545;
+    border-radius: 10px;
+    padding: 1rem;
+}
+#count {
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    font-size: 3rem;
+    text-align: center;
+    margin: auto;
+    width: 125px;
+    padding-top: 6rem;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#Btn {
+    width: auto;
+    display: flexbox;
+    padding-top: 1rem;
+    margin-left: 90px;
+}
+#btn-1 {
+    width: 100px;
+    height: 50px;
+    padding: 1rem;
+}
+
+#btn-2 {
+    width: 100px;
+    height: 50px;
+    padding: 1rem;
+    margin: 20px;
+}
